@@ -1,5 +1,5 @@
 from youtubesearchpython import VideosSearch
 
-videosSearch = VideosSearch('FSL', limit = 2)
+videosSearch = VideosSearch('AFNI', limit = 2)
 
 print(videosSearch.result())
