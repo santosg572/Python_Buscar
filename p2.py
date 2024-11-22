@@ -1,6 +1,6 @@
 from googlesearch import search
 # esta variable contiene el paramentro o consulta de busqueda
-q = "Lotka-Volterra Model"
+q = "Lotka-Volterra"
 
 # ahora ejecutamos la busqueda con la funcion search y pasamos como parametro la consulta
 
