@@ -1,4 +1,4 @@
-file = 'Lotka-Volterra'
+file = 'R_lenguage'
 
 fil = open(file+'.txt', 'r')
 filo = open(file+'.html', 'w')
