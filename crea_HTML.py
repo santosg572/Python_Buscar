@@ -1,4 +1,4 @@
-file = 'R_lenguage'
+file = 'ggplot2'
 
 fil = open(file+'.txt', 'r')
 filo = open(file+'.html', 'w')
